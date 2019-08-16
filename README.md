@@ -9,12 +9,9 @@ Quick guide to building a maze.txt:
 After that the rest of lines repesent the legal moves possible within the maze.
 eg if the file is:
 
-x y
-
-a b
-
-c d
-
+x y <br>
+a b <br>
+c d <br>
 a b c d
 
 Then it means that:
