@@ -20,5 +20,6 @@ Then it means that:
 - the end point is on block[c][d]
 - block[a][b] -> block[c][d] is legal, ie you can go from block[a][b] straight over to block[c][d].
 
+Please refer to the examples in solvable_maze.txt and unsolvable_maze.txt, as well as the image provided.
 
 Built using the Python language.
