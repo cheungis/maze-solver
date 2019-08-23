@@ -1,6 +1,5 @@
 '''
-A program that uses a stack to check if there is a solution to a maze. 
-Maze implementation is in maze.py. 
+A program that uses a stack to check if there is a solution to a maze.
 '''
 
 # Classes for working with mazes
